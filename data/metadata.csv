@@ -1,0 +1,230 @@
+﻿sample_id, individual, age, sex, influenza, BCG,time_point
+Sample 1,N,48,male,Pre-influenza,none,6
+Sample 10,L,26,female,Post-influenza,BCG lux,72
+Sample 100,N,48,male,Pre-influenza,none,72
+Sample 101,C,46,male,Pre-influenza,BCG lux,6
+Sample 102,D,22,male,Post-influenza,none,6
+Sample 103,D,22,male,Pre-influenza,BCG lux,6
+Sample 104,M,44,male,Pre-influenza,none,0
+Sample 105,O,25,female,Post-influenza,none,0
+Sample 106,K,51,female,Pre-influenza,BCG lux,72
+Sample 107,N,48,male,Post-influenza,none,0
+Sample 108,I,53,male,Post-influenza,BCG lux,6
+Sample 109,L,26,female,Post-influenza,none,6
+Sample 11,J,41,female,Post-influenza,BCG lux,24
+Sample 110,D,22,male,Post-influenza,BCG lux,24
+Sample 111,L,26,female,Post-influenza,BCG lux,6
+Sample 112,B,50,male,Post-influenza,none,24
+Sample 113,O,25,female,Pre-influenza,BCG lux,24
+Sample 114,J,41,female,Pre-influenza,BCG lux,6
+Sample 115,D,22,male,Pre-influenza,none,24
+Sample 116,M,44,male,Post-influenza,BCG lux,24
+Sample 117,C,46,male,Pre-influenza,none,6
+Sample 118,A,35,female,Pre-influenza,none,72
+Sample 119,H,55,female,Post-influenza,BCG lux,6
+Sample 12,F,47,female,Post-influenza,BCG lux,72
+Sample 120,K,51,female,Pre-influenza,none,72
+Sample 121,H,55,female,Post-influenza,none,24
+Sample 122,E,25,female,Post-influenza,none,72
+Sample 123,M,44,male,Post-influenza,BCG lux,72
+Sample 124,G,29,female,Post-influenza,none,72
+Sample 125,D,22,male,Pre-influenza,none,0
+Sample 126,A,35,female,Post-influenza,BCG lux,72
+Sample 127,H,55,female,Post-influenza,BCG lux,72
+Sample 128,M,44,male,Post-influenza,none,24
+Sample 129,L,26,female,Post-influenza,none,0
+Sample 13,K,51,female,Pre-influenza,BCG lux,6
+Sample 130,H,55,female,Pre-influenza,BCG lux,6
+Sample 131,F,47,female,Pre-influenza,none,0
+Sample 132,B,50,male,Post-influenza,BCG lux,24
+Sample 133,I,53,male,Post-influenza,none,6
+Sample 134,O,25,female,Post-influenza,none,72
+Sample 135,L,26,female,Pre-influenza,none,72
+Sample 136,P,50,male,Post-influenza,none,6
+Sample 137,M,44,male,Pre-influenza,BCG lux,24
+Sample 138,J,41,female,Pre-influenza,BCG lux,24
+Sample 139,A,35,female,Post-influenza,none,24
+Sample 14,D,22,male,Pre-influenza,none,72
+Sample 140,J,41,female,Post-influenza,none,72
+Sample 141,K,51,female,Post-influenza,BCG lux,72
+Sample 142,C,46,male,Post-influenza,BCG lux,24
+Sample 143,H,55,female,Pre-influenza,BCG lux,72
+Sample 144,M,44,male,Pre-influenza,BCG lux,72
+Sample 145,E,25,female,Pre-influenza,none,24
+Sample 146,B,50,male,Pre-influenza,none,0
+Sample 147,L,26,female,Pre-influenza,BCG lux,24
+Sample 148,Q,45,male,Post-influenza,none,72
+Sample 149,B,50,male,Pre-influenza,BCG lux,6
+Sample 15,Q,45,male,Pre-influenza,none,6
+Sample 150,I,53,male,Pre-influenza,none,24
+Sample 151,F,47,female,Post-influenza,none,24
+Sample 152,J,41,female,Post-influenza,none,24
+Sample 153,L,26,female,Post-influenza,none,24
+Sample 154,Q,45,male,Pre-influenza,none,0
+Sample 155,D,22,male,Post-influenza,BCG lux,6
+Sample 156,E,25,female,Pre-influenza,none,0
+Sample 157,A,35,female,Pre-influenza,none,24
+Sample 158,C,46,male,Pre-influenza,none,0
+Sample 159,J,41,female,Pre-influenza,none,24
+Sample 16,F,47,female,Post-influenza,BCG lux,6
+Sample 160,D,22,male,Post-influenza,none,0
+Sample 161,N,48,male,Pre-influenza,BCG lux,24
+Sample 162,M,44,male,Pre-influenza,none,6
+Sample 163,I,53,male,Pre-influenza,none,72
+Sample 164,N,48,male,Pre-influenza,BCG lux,72
+Sample 165,A,35,female,Pre-influenza,BCG lux,72
+Sample 166,Q,45,male,Post-influenza,BCG lux,72
+Sample 167,O,25,female,Post-influenza,BCG lux,6
+Sample 168,C,46,male,Pre-influenza,BCG lux,72
+Sample 169,E,25,female,Post-influenza,BCG lux,6
+Sample 17,K,51,female,Pre-influenza,none,24
+Sample 170,J,41,female,Post-influenza,none,6
+Sample 171,M,44,male,Pre-influenza,BCG lux,6
+Sample 172,E,25,female,Pre-influenza,none,6
+Sample 173,K,51,female,Pre-influenza,BCG lux,24
+Sample 174,P,50,male,Post-influenza,none,72
+Sample 175,B,50,male,Pre-influenza,none,24
+Sample 176,N,48,male,Pre-influenza,BCG lux,6
+Sample 177,I,53,male,Post-influenza,BCG lux,72
+Sample 178,G,29,female,Post-influenza,none,24
+Sample 179,P,50,male,Pre-influenza,none,6
+Sample 18,O,25,female,Post-influenza,BCG lux,72
+Sample 180,A,35,female,Pre-influenza,BCG lux,24
+Sample 181,F,47,female,Pre-influenza,none,6
+Sample 182,I,53,male,Pre-influenza,BCG lux,24
+Sample 183,P,50,male,Pre-influenza,BCG lux,24
+Sample 184,E,25,female,Pre-influenza,BCG lux,24
+Sample 185,F,47,female,Pre-influenza,none,24
+Sample 186,J,41,female,Post-influenza,BCG lux,6
+Sample 187,F,47,female,Post-influenza,BCG lux,24
+Sample 188,C,46,male,Post-influenza,none,24
+Sample 189,C,46,male,Post-influenza,BCG lux,72
+Sample 19,J,41,female,Post-influenza,none,0
+Sample 190,M,44,male,Post-influenza,none,6
+Sample 191,G,29,female,Pre-influenza,BCG lux,72
+Sample 192,A,35,female,Post-influenza,BCG lux,24
+Sample 193,Q,45,male,Post-influenza,BCG lux,6
+Sample 194,E,25,female,Post-influenza,none,6
+Sample 195,P,50,male,Pre-influenza,BCG lux,6
+Sample 196,L,26,female,Pre-influenza,none,24
+Sample 197,C,46,male,Pre-influenza,BCG lux,24
+Sample 198,I,53,male,Pre-influenza,BCG lux,6
+Sample 199,L,26,female,Post-influenza,BCG lux,24
+Sample 2,F,47,female,Pre-influenza,BCG lux,24
+Sample 20,P,50,male,Post-influenza,none,0
+Sample 200,M,44,male,Pre-influenza,none,72
+Sample 201,I,53,male,Post-influenza,none,72
+Sample 202,A,35,female,Post-influenza,none,6
+Sample 203,O,25,female,Pre-influenza,none,24
+Sample 204,B,50,male,Post-influenza,BCG lux,72
+Sample 205,I,53,male,Post-influenza,none,24
+Sample 206,D,22,male,Pre-influenza,BCG lux,72
+Sample 207,G,29,female,Pre-influenza,none,0
+Sample 208,N,48,male,Pre-influenza,none,24
+Sample 209,L,26,female,Pre-influenza,none,0
+Sample 21,D,22,male,Post-influenza,BCG lux,72
+Sample 210,N,48,male,Pre-influenza,none,0
+Sample 211,L,26,female,Pre-influenza,none,6
+Sample 212,K,51,female,Post-influenza,BCG lux,6
+Sample 213,H,55,female,Pre-influenza,none,72
+Sample 214,E,25,female,Post-influenza,none,24
+Sample 215,E,25,female,Post-influenza,BCG lux,24
+Sample 216,K,51,female,Pre-influenza,none,6
+Sample 217,Q,45,male,Post-influenza,BCG lux,24
+Sample 218,N,48,male,Post-influenza,none,24
+Sample 219,G,29,female,Post-influenza,none,0
+Sample 22,K,51,female,Post-influenza,none,24
+Sample 220,N,48,male,Post-influenza,none,72
+Sample 221,G,29,female,Pre-influenza,BCG lux,6
+Sample 222,P,50,male,Pre-influenza,none,0
+Sample 223,Q,45,male,Post-influenza,none,24
+Sample 224,Q,45,male,Pre-influenza,BCG lux,72
+Sample 225,G,29,female,Post-influenza,BCG lux,24
+Sample 226,K,51,female,Post-influenza,none,6
+Sample 227,Q,45,male,Pre-influenza,BCG lux,24
+Sample 228,N,48,male,Post-influenza,BCG lux,72
+Sample 229,M,44,male,Post-influenza,none,0
+Sample 23,I,53,male,Pre-influenza,none,0
+Sample 24,F,47,female,Pre-influenza,BCG lux,72
+Sample 25,P,50,male,Post-influenza,none,24
+Sample 26,P,50,male,Pre-influenza,none,24
+Sample 27,G,29,female,Post-influenza,BCG lux,6
+Sample 28,J,41,female,Post-influenza,BCG lux,72
+Sample 29,K,51,female,Post-influenza,none,0
+Sample 3,E,25,female,Post-influenza,none,0
+Sample 30,H,55,female,Post-influenza,none,6
+Sample 31,H,55,female,Post-influenza,none,72
+Sample 32,D,22,male,Post-influenza,none,72
+Sample 33,B,50,male,Post-influenza,none,6
+Sample 34,F,47,female,Pre-influenza,none,72
+Sample 35,Q,45,male,Pre-influenza,BCG lux,6
+Sample 36,H,55,female,Pre-influenza,none,0
+Sample 37,H,55,female,Pre-influenza,none,24
+Sample 38,D,22,male,Post-influenza,none,24
+Sample 39,Q,45,male,Pre-influenza,none,72
+Sample 4,I,53,male,Post-influenza,BCG lux,24
+Sample 40,N,48,male,Post-influenza,BCG lux,24
+Sample 41,F,47,female,Post-influenza,none,72
+Sample 42,O,25,female,Pre-influenza,BCG lux,72
+Sample 43,D,22,male,Pre-influenza,none,6
+Sample 44,G,29,female,Pre-influenza,none,24
+Sample 45,B,50,male,Pre-influenza,BCG lux,72
+Sample 46,L,26,female,Post-influenza,none,72
+Sample 47,G,29,female,Post-influenza,none,6
+Sample 48,A,35,female,Post-influenza,BCG lux,6
+Sample 49,B,50,male,Pre-influenza,none,6
+Sample 5,C,46,male,Post-influenza,none,0
+Sample 50,E,25,female,Pre-influenza,BCG lux,6
+Sample 51,J,41,female,Pre-influenza,none,6
+Sample 52,H,55,female,Pre-influenza,none,6
+Sample 53,C,46,male,Pre-influenza,none,72
+Sample 54,M,44,male,Post-influenza,none,72
+Sample 55,K,51,female,Post-influenza,none,72
+Sample 56,I,53,male,Post-influenza,none,0
+Sample 57,A,35,female,Post-influenza,none,72
+Sample 58,B,50,male,Post-influenza,BCG lux,6
+Sample 59,A,35,female,Pre-influenza,BCG lux,6
+Sample 6,F,47,female,Post-influenza,none,6
+Sample 60,G,29,female,Post-influenza,BCG lux,72
+Sample 61,I,53,male,Pre-influenza,BCG lux,72
+Sample 62,P,50,male,Post-influenza,BCG lux,24
+Sample 63,E,25,female,Post-influenza,BCG lux,72
+Sample 64,G,29,female,Pre-influenza,none,6
+Sample 65,M,44,male,Post-influenza,BCG lux,6
+Sample 66,Q,45,male,Pre-influenza,none,24
+Sample 67,O,25,female,Pre-influenza,none,0
+Sample 68,O,25,female,Pre-influenza,none,6
+Sample 69,F,47,female,Post-influenza,none,0
+Sample 7,H,55,female,Pre-influenza,BCG lux,24
+Sample 70,J,41,female,Pre-influenza,none,0
+Sample 71,M,44,male,Pre-influenza,none,24
+Sample 72,K,51,female,Post-influenza,BCG lux,24
+Sample 73,A,35,female,Pre-influenza,none,6
+Sample 74,A,35,female,Pre-influenza,none,0
+Sample 75,Q,45,male,Post-influenza,none,6
+Sample 76,I,53,male,Pre-influenza,none,6
+Sample 77,K,51,female,Pre-influenza,none,0
+Sample 78,C,46,male,Post-influenza,none,6
+Sample 79,J,41,female,Pre-influenza,BCG lux,72
+Sample 8,D,22,male,Pre-influenza,BCG lux,24
+Sample 80,C,46,male,Post-influenza,BCG lux,6
+Sample 81,P,50,male,Post-influenza,BCG lux,6
+Sample 82,J,41,female,Pre-influenza,none,72
+Sample 83,F,47,female,Pre-influenza,BCG lux,6
+Sample 84,B,50,male,Pre-influenza,none,72
+Sample 85,O,25,female,Post-influenza,none,24
+Sample 86,O,25,female,Post-influenza,BCG lux,24
+Sample 87,G,29,female,Pre-influenza,BCG lux,24
+Sample 88,B,50,male,Pre-influenza,BCG lux,24
+Sample 89,G,29,female,Pre-influenza,none,72
+Sample 9,B,50,male,Post-influenza,none,72
+Sample 90,N,48,male,Post-influenza,BCG lux,6
+Sample 91,L,26,female,Pre-influenza,BCG lux,72
+Sample 92,P,50,male,Post-influenza,BCG lux,72
+Sample 93,O,25,female,Post-influenza,none,6
+Sample 94,L,26,female,Pre-influenza,BCG lux,6
+Sample 95,N,48,male,Post-influenza,none,6
+Sample 96,Q,45,male,Post-influenza,none,0
+Sample 97,C,46,male,Pre-influenza,none,24
+Sample 98,A,35,female,Post-influenza,none,0
+Sample 99,B,50,male,Post-influenza,none,0
